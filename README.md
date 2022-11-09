@@ -11,11 +11,13 @@ npm run dev
 ```
 ### Compiles and run website (Run this code to compile website)
 ```
-
 npm run serve
 ```
+### Install Axios 
+```
 
-
+npm i axios
+``
 ### Compiles and minifies for production
 ```
 npm run build
