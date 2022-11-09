@@ -4,7 +4,6 @@
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for server development (Run this code to connect to MongoDB server)
 ```
 npm run dev
@@ -15,9 +14,8 @@ npm run serve
 ```
 ### Install Axios 
 ```
-
 npm i axios
-``
+```
 ### Compiles and minifies for production
 ```
 npm run build
